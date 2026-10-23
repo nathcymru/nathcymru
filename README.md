@@ -2,7 +2,7 @@
   <img src="assets/nathan-and-bentley-hero.webp" alt="Illustration of Nathan and Bentley in a cosy Welsh maker's workshop, with Raspberry Pi electronics, a 3D printer, a weather station and a rainbow over the hills" width="100%">
 </p>
 
-<h1 align="center">Shwmae! I'm Nathan. 🐉
+<h1 align="center">Shwmae! I'm Nathan.</br>
 <sub>(Bentley says hello too 🐾)</sub></h1>
 
 <p align="center"><strong>Welsh maker · Professional problem-solver · Enthusiastic breaker-and-fixer of things</strong></p>
