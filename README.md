@@ -1,11 +1,10 @@
 <div align="center">
-
-<h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
-<sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>
-
+  
 <p>
   <img src="assets/nathan-and-bentley-hero.webp" width="100%" alt="Nathan and Bentley in a cosy Welsh workshop, with tiny computers, tools and a rainbow over the hills.">
 </p>
+<h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
+<sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>
 
 <p><strong>Cymro · Maker · Tinkerer · Novice</strong></p>
 
@@ -19,15 +18,13 @@ I make things for **peace, enjoyment, and to fix the little frustrations in my w
 My professional background is in health, safety and management systems. I like finding ways to make complicated things safer and easier to use. Health problems mean I spend a lot of time at home. Building things is my creative escape. There's comfort in solving a small problem, learning something new, or finally getting that sensor to behave.
 
 My usual process:
-1. Spot a small inconvenience.
-2. Start making a solution.
-3. Find twelve interesting side quests.
-4. Remember the original inconvenience.
+ - Spot a small inconvenience -
+ - Start making a solution -
+ - Find twelve interesting side quests -
+ - Remember the original inconvenience -
 
 I like to think there's a bit of **cwtch** in that: comfort, care, and room to be yourself.
 </details>
-
----
 
 <h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench </h2>
 
@@ -79,8 +76,6 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
   </tr>
 </table>
 
----
-
 <h2><img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with </h2>
 
 <p>
@@ -123,8 +118,6 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
 3D printing, useful little parts, and finding out whether an idea fits in the real world.
 </details>
 
----
-
 <h2><img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench </h2>
 
 **Cwtch Consulting** is home to my more formal work, including both open-source and commercial projects. This profile is where I keep the personal tinkering. Both sides share the same curiosity and care.
@@ -137,8 +130,6 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
   <a href="https://github.com/Cwtch-Consulting"><img src="assets/cwtch-consulting.webp" width="280" alt="Nathan and Bentley together in their illustrated Welsh workshop."></a>
 </p>
 </details>
-
----
 
 <h2><img src="assets/icons/paw-print-yellow.svg?v=2" width="24" height="24" alt=""> Meet Bentley </h2>
 
