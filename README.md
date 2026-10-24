@@ -1,16 +1,13 @@
+<div align="center">
+  <h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
+  <sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>
+</div>
+
 <p align="center">
   <img src="assets/nathan-and-bentley-hero.webp" width="100%" alt="Nathan and Bentley in a cosy Welsh workshop, with tiny computers, tools and a rainbow over the hills.">
 </p>
-
-<h1 align="center">Shwmae! I'm Nathan.<br><sub>Bentley says hello too.</sub></h1>
-
-<p align="center"><strong>Welsh maker · Curious tinkerer · Enthusiastic breaker and fixer of things</strong></p>
-
-<p align="center"><em>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</em></p>
-
----
-
-## <img src="assets/icons/heart.svg" width="24" height="24" alt=""> A bit about me
+<p align="center"><strong>Cymro · Maker · Tinkerer · Novice</strong></p></div>
+<h2><img src="assets/icons/heart.svg" width="24" height="24" alt=""> A bit about me </h2>
 
 I make things for **peace, enjoyment, and to fix the little frustrations in my world**.
 
@@ -21,6 +18,7 @@ This is my personal corner of GitHub: home projects, small experiments, things I
 I share what I build in case it makes someone else's day a little easier.
 
 <details>
+  
 <summary><strong>A bit more of my story</strong></summary>
 
 My professional background is in health, safety and management systems. I like finding ways to make complicated things safer and easier to use.
@@ -165,9 +163,7 @@ This profile is where I keep the personal tinkering. Both sides share the same c
 
 </details>
 
----
-
-## <img src="assets/icons/paw-print.svg" width="24" height="24" alt=""> Meet Bentley
+## <img src="assets/icons/paw-print-yellow.svg?v=2" width="24" height="24" alt=""> Meet Bentley
 
 <img src="assets/bentley-cameo.png" align="right" width="120" alt="Illustrated portrait of Bentley the Cavapoo.">
 
@@ -177,10 +173,16 @@ Bentley keeps me company and reports urgent issues by putting a paw on the keybo
 
 If something I've shared helps you, or makes you smile, you're welcome to buy us a coffee. Bentley would prefer a biscuit.
 
-[![Buy Bentley a biscuit](https://img.shields.io/badge/Buy_Bentley_a_Biscuit-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=161616)](https://buymeacoffee.com/cicwtch)
-
 <br clear="all">
 
-**Diolch am alw heibio!** Thanks for stopping by.
-
-<p align="center"><sub>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</sub></p>
+<p align="center">
+  <a href="https://buymeacoffee.com/cicwtch">
+    <img src="https://img.shields.io/badge/Buy_Bentley_a_Biscuit-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=161616" alt="Buy Bentley a biscuit">
+  </a>
+  <br clear="all">
+  Diolch am alw heibio! Thanks for stopping by.
+  <br clear="all">
+  <sub>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</sub>
+  <br clear="all"> <br clear="all">
+  <img src="assets/icons/wales-flag-icon.svg" width="75" height="125" alt="Welsh Flag">
+</p>
