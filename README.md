@@ -1,92 +1,192 @@
+<h1 align="center">Shwmae, I'm Nathan.</h1>
+
+<p align="center"><strong>Welsh maker. Curious tinkerer. Bentley's assistant.</strong></p>
+
 <p align="center">
-  <img src="assets/nathan-and-bentley-hero.webp" alt="Illustration of Nathan and Bentley in a cosy Welsh maker's workshop, with Raspberry Pi electronics, a 3D printer, a weather station and a rainbow over the hills" width="100%">
+  <img src="assets/nathan-and-bentley-hero.webp" width="100%" alt="Nathan and Bentley in an illustrated Welsh workshop, surrounded by tools, tiny computers and a view of the hills.">
 </p>
 
-<h1 align="center">Shwmae! I'm Nathan.</br>
-<sub>(Bentley says hello too 🐾)</sub></h1>
+I build things for fun, for a calmer mind, and to fix life's little frustrations.
 
-<p align="center"><strong>Welsh maker · Professional problem-solver · Enthusiastic breaker-and-fixer of things</strong></p>
-<p align="center"><em>Adeiladwyd yng Nghymru · Built in Wales · Designed with cwtch</em></p>
+Sometimes that means a useful tool. Sometimes it means spending a whole afternoon making a light do something unnecessary.
 
-<p align="center">
-  <a href="https://github.com/Cwtch-Consulting"><img src="https://img.shields.io/badge/Cwtch_Consulting-163B58?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Cwtch Consulting GitHub organisation"></a>
-  <a href="https://buymeacoffee.com/cicwtch"><img src="https://img.shields.io/badge/Buy_Bentley_a_Biscuit-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=161616" alt="Support Nathan and Bentley on Buy Me a Coffee"></a>
-  <a href="https://github.com/nathcymru?tab=repositories"><img src="https://img.shields.io/badge/My_Repositories-315D72?style=for-the-badge&logo=github&logoColor=white" alt="Browse Nathan's repositories"></a>
+<p>
+  <a href="#my-projects"><img src="https://img.shields.io/badge/See_my_projects-315D72?style=for-the-badge" alt="See my projects"></a>
 </p>
 
 ---
 
-### 👋 A bit about the person behind the keyboard
+## <img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> My projects
 
-I build things for **peace, enjoyment and to fix the little frustrations in my world**.
+### <img src="assets/icons/cloud-sun.svg" width="22" height="22" alt=""> HA-Sky-Canvas
 
-By profession, I come from **health, safety and management systems**. For fun, I tinker with **Home Assistant, Raspberry Pi boards, web apps, automation, 3D printing and open source**. The overlap is surprisingly large: I like making complicated things **safer, calmer and easier to use**.
+<p>
+  <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="assets/ha-sky-canvas.webp" width="420" alt="Illustrated Welsh hills, changing weather and a home weather station."></a>
+</p>
 
-I'm autistic and have ADHD, and health problems mean I spend a lot of time at home. Building things is my creative escape. It helps quiet the noise, keeps my curiosity busy, and occasionally results in software somebody else might find useful.
+<p>
+  <img src="https://img.shields.io/badge/Home_Assistant-315D72?style=flat-square" alt="Home Assistant">
+  <img src="https://img.shields.io/badge/Open_source-466B4E?style=flat-square" alt="Open source">
+</p>
 
-> **My development methodology:** Find a tiny inconvenience → build a solution → discover twelve interesting side quests → remember the original inconvenience. 😄
+Give your Home Assistant dashboard a view that changes with the weather, time of day and seasons.
 
-### 🧪 Currently on the workbench
+A little more life on the wall. No window installation required.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-  <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="assets/ha-sky-canvas.webp" alt="Illustrated Welsh landscape with changing weather and a domestic weather station" width="100%"></a>
-  <h3>🌦️ <a href="https://github.com/nathcymru/HA-Sky-Canvas">HA-Sky-Canvas</a></h3>
-  <p>Bring Home Assistant dashboards to life with weather, day/night scenery and seasonal themes. <strong>Early-stage open-source project.</strong></p>
-  <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="https://img.shields.io/github/stars/nathcymru/HA-Sky-Canvas?style=flat-square&label=Stars" alt="HA-Sky-Canvas GitHub stars"></a>
-</td>
-<td width="33%" valign="top">
-  <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="assets/tocyn-maker-bench.webp" alt="Illustrated workbench of Raspberry Pi hardware and 3D-printing tools" width="100%"></a>
-  <h3>🎟️ <a href="https://github.com/Cwtch-Consulting/Tocyn">Tocyn</a></h3>
-  <p>An open-source, Cloudflare-native helpdesk project, designed around useful workflows and thoughtful tenant isolation.</p>
-  <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="https://img.shields.io/github/stars/Cwtch-Consulting/Tocyn?style=flat-square&label=Stars" alt="Tocyn GitHub stars"></a>
-</td>
-<td width="33%" valign="top">
-  <a href="https://github.com/Cwtch-Consulting"><img src="assets/cwtch-consulting.webp" alt="Nathan and Bentley in their cosy maker studio in Wales" width="100%"></a>
-  <h3>🧩 <a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></h3>
-  <p>My wider software and consultancy projects, where practical systems thinking meets ambitious ideas. Some work is kept private.</p>
-  <a href="https://github.com/Cwtch-Consulting"><img src="https://img.shields.io/badge/Explore_the_organisation-163B58?style=flat-square&logo=github&logoColor=white" alt="Explore the Cwtch Consulting organisation"></a>
-</td>
-</tr>
-</table>
+**[Explore HA-Sky-Canvas](https://github.com/nathcymru/HA-Sky-Canvas)**
 
-### 🧰 The sort of things I tinker with
+<br>
 
-**🏠 Smart homes** — Home Assistant, dashboards, sensors, useful automations and occasionally unnecessary ones.  
-**🥧 Tiny computers** — Raspberry Pi, Pico, MicroPython, electronics and making LEDs do interesting things.  
-**🖥️ Software** — web applications, TypeScript, React, Rust, Python and Cloudflare's edge platform.  
-**🧠 Human-friendly design** — accessible, predictable interfaces that don't make people work harder than they need to.  
-**🛡️ Trust** — privacy, security, clear documentation and doing things properly without making them needlessly difficult.
+### <img src="assets/icons/ticket.svg" width="22" height="22" alt=""> Tocyn
 
-### ⭐ A few GitHub rabbit holes I enjoy
+<p>
+  <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="assets/tocyn-maker-bench.webp" width="420" alt="Illustrated maker's bench with electronics, tools and Bentley keeping watch."></a>
+</p>
 
-These are the kinds of open-source projects that inspire my tinkering, rather than a list of projects I claim to maintain:
+<p>
+  <img src="https://img.shields.io/badge/Software-Free-466B4E?style=flat-square" alt="Software: free">
+  <img src="https://img.shields.io/badge/Licence-MIT-315D72?style=flat-square" alt="Licence: MIT">
+</p>
 
-| Repository | Why it's here |
-| :--- | :--- |
-| 🏡 [home-assistant/core](https://github.com/home-assistant/core) | A whole home, coordinated without the cloud being in charge. |
-| 🌡️ [esphome/esphome](https://github.com/esphome/esphome) | When an ordinary sensor could become a very satisfying weekend project. |
-| 🥧 [raspberrypi/pico-examples](https://github.com/raspberrypi/pico-examples) | Small computers, big possibilities, and that first blinking LED. |
-| 🎨 [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) | Thoughtful UI building blocks and accessible design. |
-| ☁️ [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) | Building useful things close to users, without heavyweight infrastructure. |
+A free, open-source helpdesk for keeping track of support requests. This one lives at **Cwtch Consulting**, my other workbench.
 
-**More discoveries:** [Browse my GitHub stars ✨](https://github.com/nathcymru?tab=stars)
+**[Explore Tocyn](https://github.com/Cwtch-Consulting/Tocyn)**
+
+<details>
+<summary>More about Tocyn</summary>
+
+Tocyn is built for Cloudflare. It helps teams organise support requests and keeps each organisation's work separate.
+
+I maintain it as a fork of [Luminatick](https://github.com/05ng/luminatick), building on the original project's work.
+
+The software is free and open source, under the MIT licence. It is built to stay that way.
+
+[Read the project guide](https://github.com/Cwtch-Consulting/Tocyn#readme) · [See the releases](https://github.com/Cwtch-Consulting/Tocyn/releases)
+
+</details>
+
+<br>
+
+[Browse all my repositories](https://github.com/nathcymru?tab=repositories)
 
 ---
 
-<table>
-<tr>
-<td valign="middle" width="75%">
-  <h3>🐾 Meet Bentley, head of quality assurance</h3>
-  <p>Cavapoo. Expert biscuit tester. Will report critical bugs by placing a paw on the keyboard.</p>
-  <p>If something I've shared saves you a bit of trouble or brings you a smile, you're welcome to <a href="https://buymeacoffee.com/cicwtch">buy us a coffee</a>. Bentley would prefer the biscuit equivalent.</p>
-  <p><strong>Diolch am alw heibio!</strong> — Thanks for stopping by. 🐉</p>
-</td>
-<td width="25%" align="center" valign="middle">
-  <img src="assets/bentley-cameo.png" width="180" alt="Illustrated portrait of Bentley the Cavapoo at Nathan's workbench">
-</td>
-</tr>
-</table>
+## <img src="assets/icons/heart.svg" width="24" height="24" alt=""> A little about me
 
-<p align="center"><sub>Made in Wales 🏴 · Powered by curiosity, caffeine and canine supervision. · <a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></sub></p>
+I'm autistic and have ADHD. Making things gives my curiosity somewhere to go and helps quiet the noise.
+
+This is my personal corner of GitHub: home projects, small experiments, things I find useful, and things I make just because I can.
+
+I share what I build in case it makes someone else's day a little easier.
+
+<details>
+<summary>A bit more of my story</summary>
+
+My professional background is in health, safety and management systems. I like finding ways to make complicated things safer and easier to use.
+
+Health problems mean I spend a lot of time at home. Building things is my creative escape. There's comfort in solving a small problem, learning something new, or finally getting that sensor to behave.
+
+My usual process:
+
+1. Spot a small inconvenience.
+2. Start making a solution.
+3. Find twelve interesting side quests.
+4. Remember the original inconvenience.
+
+I like to think there's a bit of **cwtch** in that: comfort, care, and room to be yourself.
+
+</details>
+
+---
+
+## <img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with
+
+Smart homes, tiny computers, web apps and 3D printing. Usually with a cup of coffee going cold nearby.
+
+<details>
+<summary>Open the toolbox</summary>
+
+### <img src="assets/icons/house.svg" width="22" height="22" alt=""> Around the house
+
+Home Assistant, dashboards, sensors and automations that save a little effort.
+
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-315D72?style=flat-square)
+
+### <img src="assets/icons/cpu.svg" width="22" height="22" alt=""> Tiny computers
+
+Raspberry Pi, Pico boards, electronics and the joy of a blinking light.
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-315D72?style=flat-square)
+![MicroPython](https://img.shields.io/badge/MicroPython-315D72?style=flat-square)
+
+### <img src="assets/icons/code-xml.svg" width="22" height="22" alt=""> Software
+
+Web apps, scripts and tools that turn a repetitive job into a button press.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-315D72?style=flat-square)
+![React](https://img.shields.io/badge/React-315D72?style=flat-square)
+![Python](https://img.shields.io/badge/Python-315D72?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-315D72?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-315D72?style=flat-square)
+
+### <img src="assets/icons/printer.svg" width="22" height="22" alt=""> Things you can hold
+
+3D printing, useful little parts, and finding out whether an idea fits in the real world.
+
+</details>
+
+<br>
+
+<details>
+<summary>Favourite rabbit holes</summary>
+
+- [Home Assistant](https://github.com/home-assistant/core) — making a home work your way.
+- [ESPHome](https://github.com/esphome/esphome) — giving small sensors useful jobs.
+- [Raspberry Pi Pico examples](https://github.com/raspberrypi/pico-examples) — small boards and plenty to try.
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui) — building interfaces that are easier to use.
+- [Cloudflare Workers](https://github.com/cloudflare/workers-sdk) — another place to turn an idea into a working tool.
+
+These projects inspire my tinkering. Their creators deserve the credit.
+
+[See more of my discoveries](https://github.com/nathcymru?tab=stars)
+
+</details>
+
+---
+
+## <img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench
+
+**Cwtch Consulting** is home to my more formal work, including both open-source and commercial projects.
+
+This profile is where I keep the personal tinkering. Both sides share the same curiosity and care.
+
+[Explore Cwtch Consulting](https://github.com/Cwtch-Consulting)
+
+<details>
+<summary>A look at my other workbench</summary>
+
+<p>
+  <a href="https://github.com/Cwtch-Consulting"><img src="assets/cwtch-consulting.webp" width="420" alt="Nathan and Bentley together in their illustrated Welsh workshop."></a>
+</p>
+
+</details>
+
+---
+
+## <img src="assets/icons/paw-print.svg" width="24" height="24" alt=""> Meet Bentley
+
+<p>
+  <img src="assets/bentley-cameo.png" width="160" alt="Illustrated portrait of Bentley the Cavapoo.">
+</p>
+
+**Cavapoo. Chief Dewoofer. Expert biscuit tester.**
+
+Bentley keeps me company and reports urgent issues by putting a paw on the keyboard.
+
+If something I've shared helps you, or makes you smile, you're welcome to buy us a coffee. Bentley would prefer a biscuit.
+
+[![Buy Bentley a biscuit](https://img.shields.io/badge/Buy_Bentley_a_biscuit-806037?style=flat-square)](https://buymeacoffee.com/cicwtch)
+
+**Diolch am alw heibio!** Thanks for stopping by.
+
+<p align="center"><sub>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</sub></p>
