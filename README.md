@@ -93,7 +93,12 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 
 ## <img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with
 
-Smart homes, tiny computers, web apps and 3D printing. Usually with a cup of coffee going cold nearby.
+<br clear="all">
+<p></p><img src="assets/icons/Home-Assistant.svg" width="75" height="125" alt="Home Assistant Logo">&emsp;<img src="assets/icons/ESP-Home.svg" width="75" height="125" alt="ESP Home Logo">&emsp;<img src="assets/icons/raspberry-pi-logo.svg" width="75" height="125" alt="Raspberry Pi Logo">&emsp;<img src="assets/icons/blender.svg" width="75" height="125" alt="Blender Logo">&emsp;<img src="assets/icons/bambu-lab.svg" width="75" height="125" alt="Bambu Lab Logo">&emsp;<img src="assets/icons/sketchup.svg" width="75" height="125" alt="SketchUP Logo">&emsp;<img src="assets/icons/premierleague.svg" width="75" height="125" alt="Playstation Logo">&emsp;<img src="assets/icons/playstation.svg" width="75" height="125" alt="Playstation Logo"></p>
+  
+<br clear="all">
+
+Smart homes, tiny computers, modelling and 3D printing. Usually with a cup of coffee going cold nearby.
 
 <details>
 <summary><strong>Open the toolbox</strong></summary>
@@ -127,22 +132,7 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
 
 </details>
 
-<br>
-
-<details>
-<summary><strong>Favourite rabbit holes</strong></summary>
-
-- [Home Assistant](https://github.com/home-assistant/core) — making a home work your way.
-- [ESPHome](https://github.com/esphome/esphome) — giving small sensors useful jobs.
-- [Raspberry Pi Pico examples](https://github.com/raspberrypi/pico-examples) — small boards and plenty to try.
-- [Chakra UI](https://github.com/chakra-ui/chakra-ui) — building interfaces that are easier to use.
-- [Cloudflare Workers](https://github.com/cloudflare/workers-sdk) — another place to turn an idea into a working tool.
-
-These projects inspire my tinkering. Their creators deserve the credit.
-
-[See more of my discoveries](https://github.com/nathcymru?tab=stars)
-
-</details>
+<br clear="all">
 
 ---
 
