@@ -6,11 +6,9 @@
 <h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
 <sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>
 
-<p><strong>Cymro · Maker · Tinkerer · Novice</strong></p>
-
 <h2><img src="assets/icons/heart.svg" width="24" height="24" alt=""> A bit about me </h2>
-
-I make things for **peace, enjoyment, and to fix the little frustrations in my world**. I'm autistic and have ADHD. Making things gives my curiosity somewhere to go and helps quiet the noise. This is my personal corner of GitHub: home projects, small experiments, things I find useful, and things I make just because I can. I share what I build in case it makes someone else's day a little easier.
+<p><strong>Cymro · Maker · Tinkerer · Novice</strong></p>
+<p>I make things for **peace, enjoyment, and to fix the little frustrations in my world**. I'm autistic and have ADHD. Making things gives my curiosity somewhere to go and helps quiet the noise. This is my personal corner of GitHub: home projects, small experiments, things I find useful, and things I make just because I can. I share what I build in case it makes someone else's day a little easier.</p>
 
 <details>
 <summary><strong>A bit more of my story</strong></summary>
@@ -18,15 +16,15 @@ I make things for **peace, enjoyment, and to fix the little frustrations in my w
 My professional background is in health, safety and management systems. I like finding ways to make complicated things safer and easier to use. Health problems mean I spend a lot of time at home. Building things is my creative escape. There's comfort in solving a small problem, learning something new, or finally getting that sensor to behave.
 
 My usual process:
- - Spot a small inconvenience -
- - Start making a solution -
- - Find twelve interesting side quests -
- - Remember the original inconvenience -
+Spot a small inconvenience
+Start making a solution
+Find twelve interesting side quests
+Remember the original inconvenience
 
 I like to think there's a bit of **cwtch** in that: comfort, care, and room to be yourself.
 </details>
 
-<h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench </h2>
+<h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench <br></h2>
 
 <!-- Tables are now centered and stacked cleanly -->
 <table align="center">
