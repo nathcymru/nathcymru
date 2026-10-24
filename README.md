@@ -1,10 +1,9 @@
 <div align="center">
-  
+<h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
+<sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>  
 <p>
   <img src="assets/nathan-and-bentley-hero.webp" width="100%" alt="Nathan and Bentley in a cosy Welsh workshop, with tiny computers, tools and a rainbow over the hills.">
 </p>
-<h1>S'mae pawb! Nathan ydw i, a dyma fy mêt Bentley 🐾<br/>
-<sub>How's it going, everyone! Nathan here, and my sidekick Bentley 🐾</sub></h1><br/>
 
 <h2><img src="assets/icons/heart.svg" width="24" height="24" alt=""> A bit about me </h2>
 <p><strong>Cymro · Maker · Tinkerer · Novice</strong></p>
@@ -25,7 +24,7 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 </details>
 
 <h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench <br></h2>
-
+</div>
 <!-- Tables are now centered and stacked cleanly -->
 <table align="center">
   <tr>
@@ -73,7 +72,7 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
     </td>
   </tr>
 </table>
-
+<div align="center">
 <h2><img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with </h2>
 
 <p>
