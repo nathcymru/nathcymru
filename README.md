@@ -117,7 +117,7 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
 
 <h2><img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench </h2>
 
-**Cwtch Consulting** is home to my more formal work, including both open-source and commercial projects. This profile is where I keep the personal tinkering. Both sides share the same curiosity and care.
+<code><a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></code> is home to my more formal work, including both open-source and commercial projects. This profile is where I keep the personal tinkering. Both sides share the same curiosity and care.
 
 [![Cwtch Consulting](https://img.shields.io/badge/Cwtch_Consulting-163B58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cwtch-Consulting)
 
