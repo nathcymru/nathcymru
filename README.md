@@ -93,9 +93,16 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 
 ## <img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with
 
-<br clear="all">
-<p></p><img src="assets/icons/Home-Assistant.svg" width="75" height="125" alt="Home Assistant Logo">&emsp;<img src="assets/icons/ESP-Home.svg" width="75" height="125" alt="ESP Home Logo">&emsp;<img src="assets/icons/raspberry-pi-logo.svg" width="75" height="125" alt="Raspberry Pi Logo">&emsp;<img src="assets/icons/blender.svg" width="75" height="125" alt="Blender Logo">&emsp;<img src="assets/icons/bambu-lab.svg" width="75" height="125" alt="Bambu Lab Logo">&emsp;<img src="assets/icons/sketchup.svg" width="75" height="125" alt="SketchUP Logo">&emsp;<img src="assets/icons/premierleague.svg" width="75" height="125" alt="Playstation Logo">&emsp;<img src="assets/icons/playstation.svg" width="75" height="125" alt="Playstation Logo"></p>
-  
+<p align="center">
+  <img src="assets/icons/Home-Assistant.svg" width="75" height="125" alt="Home Assistant Logo" hspace="10">
+  <img src="assets/icons/ESP-Home.svg" width="75" height="125" alt="ESP Home Logo" hspace="10">
+  <img src="assets/icons/raspberry-pi-logo.svg" width="75" height="125" alt="Raspberry Pi Logo" hspace="10">
+  <img src="assets/icons/blender.svg" width="75" height="125" alt="Blender Logo" hspace="10">
+  <img src="assets/icons/bambu-lab.svg" width="75" height="125" alt="Bambu Lab Logo" hspace="10">
+  <img src="assets/icons/sketchup.svg" width="75" height="125" alt="SketchUP Logo" hspace="10">
+  <img src="assets/icons/premierleague.svg" width="75" height="125" alt="Premier League Logo" hspace="10">
+  <img src="assets/icons/playstation.svg" width="75" height="125" alt="Playstation Logo" hspace="10">
+</p>
 <br clear="all">
 
 Smart homes, tiny computers, modelling and 3D printing. Usually with a cup of coffee going cold nearby.
