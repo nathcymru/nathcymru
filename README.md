@@ -29,7 +29,7 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 <!-- Tables are now centered and stacked cleanly -->
 <table align="center">
   <tr>
-    <td width="400" valign="top">
+    <td width="350" valign="top">
       <p align="center">
         <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="assets/ha-sky-canvas.webp" width="360" alt="Illustrated Welsh landscape with changing weather and a home weather station."></a>
       </p>
@@ -53,7 +53,7 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 
 <table align="center">
   <tr>
-    <td width="400" valign="top">
+    <td width="350" valign="top">
       <p align="center">
         <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="assets/tocyn-maker-bench.webp" width="360" alt="Illustrated workbench with electronics, tools and Bentley keeping watch."></a>
       </p>
