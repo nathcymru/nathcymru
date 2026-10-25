@@ -76,14 +76,14 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 <h2><img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with </h2>
 
 <p>
-  <img src="assets/icons/Home-Assistant.svg" width="75" height="125" alt="Home Assistant Logo" hspace="10">
-  <img src="assets/icons/ESP-Home.svg" width="75" height="125" alt="ESP Home Logo" hspace="10">
-  <img src="assets/icons/raspberry-pi-logo.svg" width="75" height="125" alt="Raspberry Pi Logo" hspace="10">
-  <img src="assets/icons/blender.svg" width="75" height="125" alt="Blender Logo" hspace="10">
-  <img src="assets/icons/bambu-lab.svg" width="75" height="125" alt="Bambu Lab Logo" hspace="10">
-  <img src="assets/icons/sketchup.svg" width="75" height="125" alt="SketchUP Logo" hspace="10">
-  <img src="assets/icons/premierleague.svg" width="75" height="125" alt="Premier League Logo" hspace="10">
-  <img src="assets/icons/playstation.svg" width="75" height="125" alt="Playstation Logo" hspace="10">
+  <img src="assets/icons/Home-Assistant.svg" width="37.5" height="62.5" alt="Home Assistant Logo" hspace="10">
+  <img src="assets/icons/ESP-Home.svg" width="37.5" height="62.5" alt="ESP Home Logo" hspace="10">
+  <img src="assets/icons/raspberry-pi-logo.svg" width="37.5" height="62.5" alt="Raspberry Pi Logo" hspace="10">
+  <img src="assets/icons/blender.svg" width="37.5" height="62.5" alt="Blender Logo" hspace="10">
+  <img src="assets/icons/bambu-lab.svg" width="37.5" height="62.5" alt="Bambu Lab Logo" hspace="10">
+  <img src="assets/icons/sketchup.svg" width="37.5" height="62.5" alt="SketchUP Logo" hspace="10">
+  <img src="assets/icons/premierleague.svg" width="37.5" height="62.5" alt="Premier League Logo" hspace="10">
+  <img src="assets/icons/playstation.svg" width="37.5" height="62.5" alt="Playstation Logo" hspace="10">
 </p>
 
 Smart homes, tiny computers, modelling and 3D printing. Usually with a cup of coffee going cold nearby.
@@ -116,16 +116,16 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
 </details>
 
 <h2><img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench </h2>
-
-<code><a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></code> is home to my more formal work, including both open-source and commercial projects. This profile is where I keep the personal tinkering. Both sides share the same curiosity and care.
+<p>
+  <img src="assets/cwtch-corgi.webp" width="120" alt="Illustrated portrait of Bentley the Cavapoo.">
+</p>
+<code><a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></code> repo is home to my more formal work, including both open-source and commercial projects where I combine my skills with decades of experience in Construction Safety & Engineering. This profile <code><a href="https://github.com/nathcymru">nathcymru</a></code> is where I keep the personal tinkering. Both sides share the same curiosity and care.
 
 [![Cwtch Consulting](https://img.shields.io/badge/Cwtch_Consulting-163B58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cwtch-Consulting)
 
 <details>
 <summary><strong>A look at my other workbench</strong></summary>
-<p>
-  <a href="https://github.com/Cwtch-Consulting"><img src="assets/cwtch-consulting.webp" width="280" alt="Nathan and Bentley together in their illustrated Welsh workshop."></a>
-</p>
+<p>test</p>
 </details>
 
 <h2><img src="assets/icons/paw-print-yellow.svg?v=2" width="24" height="24" alt=""> Meet Bentley </h2>
