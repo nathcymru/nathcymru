@@ -25,53 +25,68 @@ I like to think there's a bit of **cwtch** in that: comfort, care, and room to b
 
 <h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench <br></h2>
 </div>
-<!-- Tables are now centered and stacked cleanly -->
-<table align="center">
+
+
+<table border="0">
   <tr>
-    <td width="350" valign="top">
-      <p align="center">
-        <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="assets/ha-sky-canvas.webp" width="360" alt="Illustrated Welsh landscape with changing weather and a home weather station."></a>
-      </p>
-      <h3><img src="assets/icons/cloud-sun.svg" width="22" height="22" alt=""> HA-Sky-Canvas</h3>
-      <p>Bring your Home Assistant dashboard to life with changing weather, day and night scenery, and seasonal themes.</p>
-      <p>A little more life on the wall.</p>
+    <td width="50%" valign="top">
+      <img src="assets/ha-sky-canvas.webp" width="100%" alt="HA-Sky-Canvas illustration">
       <p>
-        <a href="https://github.com/nathcymru/HA-Sky-Canvas"><img src="https://img.shields.io/badge/View_project-163B58?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View HA-Sky-Canvas on GitHub"></a>
-        <a href="https://github.com/nathcymru/HA-Sky-Canvas/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT_licence-315D72?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white" alt="HA-Sky-Canvas MIT licence"></a>
+        <b>HA-Sky-Canvas</b><br>
+        Bring Home Assistant dashboards to life with changing weather, day and night scenery, and seasonal themes. A little more life on the wall.
       </p>
-      <details>
-        <summary><strong>More about HA-Sky-Canvas</strong></summary>
-        <p>Animated backgrounds that respond to your weather, the time of day and your sensors. Made for Home Assistant dashboards, tablets and wall displays.</p>
-        <p><a href="https://github.com/nathcymru/HA-Sky-Canvas#readme">Read the project guide</a></p>
-      </details>
+      <a href="https://github.com/nathcymru/HA-Sky-Canvas">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="HA-Sky-Canvas repository">
+      </a>
     </td>
+    <td width="50%" valign="top">
+      <img src="assets/tocyn.webp" width="100%" alt="Tocyn helpdesk illustration">
+      <p>
+        <b>Tocyn</b><br>
+        A free, open-source helpdesk for tracking support tickets, helping teams respond to requests and keeping their work organised.
+      </p>
+      <a href="https://github.com/Cwtch-Consulting/Tocyn">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Tocyn repository">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/gh-badges-accessibility-ukeu.webp" width="100%" alt="GitHub accessibility badges illustration">
+      <p>
+        <b>GH-Badges-Accessibility-UKEU</b><br>
+        Choose from 25 accessibility icons to create SVG badges or a grouped card for your GitHub profile. An unofficial Sunflower community tool.
+      </p>
+      <a href="https://github.com/nathcymru/GH-Badges-Accessibility-UKEU">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Accessibility badges repository">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/draigos.webp" width="100%" alt="DraigOS AI workspace illustration">
+      <p>
+        <b>DraigOS</b><br>
+        An AI-first ecosystem connecting Mail, Calendar, Meet, Drive, Docs and more, with Draig the friendly dragon helping across your workspace.
+      </p>
+      <a href="https://github.com/Cwtch-Consulting">
+        <img src="https://img.shields.io/badge/GitHub-Organisation-181717?style=flat-square&logo=github&logoColor=white" alt="Explore Cwtch Consulting on GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/trefniq.webp" width="100%" alt="TrefnIQ QHSE management illustration">
+      <p>
+        <b>TrefnIQ</b><br>
+        An AI-enabled QHSE platform for managing documentation, audits, inspections, assets and improvements across quality, safety and environmental responsibilities.
+      </p>
+      <a href="https://github.com/Cwtch-Consulting/trefniq-app-core">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="TrefnIQ repository">
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td width="350" valign="top">
-      <p align="center">
-        <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="assets/tocyn-maker-bench.webp" width="360" alt="Illustrated workbench with electronics, tools and Bentley keeping watch."></a>
-      </p>
-      <h3><img src="assets/icons/ticket.svg" width="22" height="22" alt=""> Tocyn</h3>
-      <p>A free, open-source helpdesk that helps teams keep track of support requests and organise their work.</p>
-      <p>From my other workbench, Cwtch Consulting.</p>
-      <p>
-        <a href="https://github.com/Cwtch-Consulting/Tocyn"><img src="https://img.shields.io/badge/View_project-163B58?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Tocyn on GitHub"></a>
-        <a href="https://github.com/Cwtch-Consulting/Tocyn/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT_licence-315D72?style=for-the-badge&amp;logo=opensourceinitiative&amp;logoColor=white" alt="Tocyn MIT licence"></a>
-      </p>
-      <details>
-        <summary><strong>More about Tocyn</strong></summary>
-        <p>Tocyn is built for Cloudflare. I maintain it as a fork of <a href="https://github.com/05ng/luminatick">Luminatick</a>, building on the original project's work.</p>
-        <p>The software is free and open source, under the MIT licence. It is built to stay that way.</p>
-        <p><a href="https://github.com/Cwtch-Consulting/Tocyn#readme">Read the project guide</a> · <a href="https://github.com/Cwtch-Consulting/Tocyn/releases">See the releases</a></p>
-      </details>
-    </td>
-  </tr>
-</table>
 <div align="center">
 <h2><img src="assets/icons/wrench.svg" width="24" height="24" alt=""> Things I tinker with </h2>
 
@@ -115,19 +130,6 @@ Web apps, scripts and tools that turn a repetitive job into a button press.
 3D printing, useful little parts, and finding out whether an idea fits in the real world.
 </details>
 
-<h2><img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench </h2>
-<p>
-  <img src="assets/cwtch-corgi.webp" width="120" alt="Illustrated portrait of Bentley the Cavapoo.">
-</p>
-<code><a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></code> repo is home to my more formal work, including both open-source and commercial projects where I combine my skills with decades of experience in Construction Safety & Engineering. This profile <code><a href="https://github.com/nathcymru">nathcymru</a></code> is where I keep the personal tinkering. Both sides share the same curiosity and care.
-
-[![Cwtch Consulting](https://img.shields.io/badge/Cwtch_Consulting-163B58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cwtch-Consulting)
-
-<details>
-<summary><strong>A look at my other workbench</strong></summary>
-<p>test</p>
-</details>
-
 <h2><img src="assets/icons/paw-print-yellow.svg?v=2" width="24" height="24" alt=""> Meet Bentley </h2>
 
 <p>
@@ -142,12 +144,18 @@ Bentley keeps me company and reports urgent issues by putting a paw on the keybo
   <a href="https://buymeacoffee.com/cicwtch">
     <img src="https://img.shields.io/badge/Buy_Bentley_a_Biscuit-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=161616" alt="Buy Bentley a biscuit">
   </a>
-  <br/><br/>
-  Diolch am alw heibio! Thanks for stopping by.
-  <br/><br/>
-  <sub>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</sub>
-  <br/><br/>
-  <img src="assets/icons/wales-flag-icon.svg" width="75" height="125" alt="Welsh Flag">
+  <br/>
+  
+  <h2><img src="assets/icons/building.svg" width="24" height="24" alt=""> My other workbench </h2>
+<p>
+  <img src="assets/cwtch-corgi.webp" width="120" alt="Illustrated portrait of Bentley the Cavapoo.">
 </p>
-
+<p><code><a href="https://github.com/Cwtch-Consulting">Cwtch Consulting</a></code> repo is home to my more formal work, including both open-source and commercial projects where I combine my skills with decades of experience in Construction Safety & Engineering. This profile <code><a href="https://github.com/nathcymru">nathcymru</a></code> is where I keep the personal tinkering. Both sides share the same curiosity and care.</p>
+  <br/>
+  Diolch am alw heibio! Thanks for stopping by.
+  <br/>
+  
+  <sub>Adeiladwyd yng Nghymru · Built in Wales · Made with cwtch</sub>
+  <br/><br />
+  <img src="assets/icons/wales-flag-icon.svg" width="75" height="125" alt="Welsh Flag">
 </div>
