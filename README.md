@@ -22,6 +22,31 @@ Remember the original inconvenience
 
 I like to think there's a bit of **cwtch** in that: comfort, care, and room to be yourself.
 </details>
+<details>
+<summary><strong>My accesibility preferences</strong></summary>
+
+### My accessibility preferences
+
+**Communication and time**
+
+![More time](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/more-time.svg)
+
+**Mobility and physical support**
+
+![Cannot stand for long](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/cannot-stand-for-long.svg)
+![Need a seat](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/need-a-seat.svg)
+![Stairs and ramps are barriers](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/stairs-and-ramps.svg)
+![Urgent toilet access](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/urgent-toilet-access.svg)
+![Help lifting or carrying](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/help-lifting-or-carrying.svg)
+
+**Sensory and personal space**
+
+![Quiet or safe place](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/quiet-safe-place.svg)
+
+**General support**
+
+![Non-visible disability](https://raw.githubusercontent.com/nathcymru/GH-Badges-Accessibility-UKEU/main/badges/non-visible-disability.svg)
+</details>
 
 <h2><img src="assets/icons/folder-open.svg" width="24" height="24" alt=""> On my workbench <br></h2>
 </div>
